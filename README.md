@@ -1,1 +1,1 @@
-This is a exercise to add sonarqube quaity gates to jenkins built pipeline.
+This is a exercise to add sonarqube quality gates to jenkins built pipeline.
